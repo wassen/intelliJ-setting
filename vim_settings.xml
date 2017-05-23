@@ -16,10 +16,18 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/pluser/build.sbt" timestamp="1495511608382">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/workspace/pluser/test/controllers/PlusControllerSpec.scala" timestamp="1495524262264">
+        <mark key="'" line="6" column="42" />
+        <mark key="[" line="27" column="75" />
+        <mark key="]" line="27" column="75" />
+        <mark key="." line="27" column="75" />
+        <mark key="^" line="27" column="75" />
+      </file>
+      <file name="$USER_HOME$/workspace/pluser/build.sbt" timestamp="1495524303899">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" timestamp="1495521330781">
         <mark key="'" line="8" column="37" />
@@ -49,11 +57,11 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" timestamp="1495518820055">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" timestamp="1495524254771">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -75,43 +83,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
       <jump line="13" column="26" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
       <jump line="8" column="37" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="6" column="42" filename="$USER_HOME$/workspace/pluser/test/controllers/PlusControllerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>&quot;Please give Number&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLnRlc3QuRmFrZVJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICLjgq/jgqjjg6rjg7zjg5Hjg6njg6Hjg7zjgr/jgYxJbnTjgavlpInmj5vjgafjgY3jgarjgYvjgaPjgZ/loLTlkIjjga8iIGluIHsKICAgICAgdmFsIGEgPSAiMSIKICAgICAgdmFsIGIgPSAiYSIKICAgICAgdmFsIHJlc3VsdCA9IGNvbnRyb2xsZXIuZ2V0KE5vbmUsIE5vbmUpKEZha2VSZXF1ZXN0KCkpCiAgICAgIGFzc2VydChzdGF0dXMocmVzdWx0KSA9PT0gMjAwKQogICAgICBhc3NlcnQoY29udGVudEFzU3RyaW5nKHJlc3VsdCkgPT09ICJQbGVhc2UgZ2l2ZSBOdW1iZXIiKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICLjgq/jgqjjg6rjg7zjg5Hjg6njg6Hjg7zjgr/jg7zjgYzkuI7jgYjjgonjgozjgarjgYvjgaPjgZ/loLTlkIjjga8iIGluIHt9CiAgICB2YWwgcmVzdWx0ID0gY29udHJvbGxlci5nZXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkK</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSAiMSIKICAgICAgdmFsIGIgPSAiYSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmloflrZfliJfku6XlpJbjgacK</text>
+        <text encoding="base64">ICAgICAgICBzIiR7VHJ5KGkudG9JbnQgKyBqLnRvSW50KS5nZXRPckVsc2UoIlBsZWFzZSBnaXZlIGFyZ3VtZW50cyBvZiBhIGFuZCBiIil9Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAicGxlYXNlIGdpdmUgYXJndW1lbnRzIG9mIGEgYW5kIGIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmloflrZfliJfku6XlpJYK</text>
+        <text encoding="base64">CiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAiIiLjgq/jgqjjg6rjg7zjg5Hjg6njg6Hjg7zjgr/jgYzjgarjgYTloLTlkIjjga/jgIxQbGVhc2UgZ2l2ZSBhIG5hbWUgYXMgYSBxdWVyeSBwYXJhbWV0ZXIgbmFtZWQgIm5hbWUiLuOAjeOBqOOBhOOBhuODrOOCueODneODs+OCueOCkui/lOOBmSIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -130,8 +139,8 @@
         <entry>b2</entry>
         <entry>b1</entry>
         <entry>b3</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>call</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
