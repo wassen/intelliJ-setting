@@ -23,6 +23,7 @@
         <mark key="." line="27" column="75" />
         <mark key="^" line="27" column="75" />
       </file>
+      <file name="$USER_HOME$/workspace/pluser/conf/messages" timestamp="1495528059840" />
       <file name="$USER_HOME$/workspace/pluser/build.sbt" timestamp="1495524303899">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -57,11 +58,17 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" timestamp="1495524254771">
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="22" />
+      <file name="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" timestamp="1495528584974">
+        <mark key="'" line="14" column="82" />
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="14" column="83" />
+        <mark key="^" line="14" column="83" />
+        <mark key="." line="14" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/pluser/conf/messages.ja" timestamp="1495528071155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -84,37 +91,38 @@
       <jump line="13" column="26" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
       <jump line="8" column="37" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
       <jump line="6" column="42" filename="$USER_HOME$/workspace/pluser/test/controllers/PlusControllerSpec.scala" />
+      <jump line="14" column="82" filename="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;Please give a name as a query parameter named &quot;name&quot;.&quot;&quot;&quot;)</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;Please give a name as a query parameter named &quot;name&quot;.&quot;&quot;&quot;)</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmkxOG4uTWVzc2FnZXNBcGkK</text>
+        <text encoding="base64">aGVsbG8gPSBIZWxsbywgezB9IQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmkxOG4uSTE4blN1cHBvcnQK</text>
+        <text encoding="base64">aGVsbG8gPSBIZWxsbywgezB9IQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmkxOG4uSTE4blN1cHBvcnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmkxOG4uSTE4blN1cHBvcnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICLjgq/jgqjjg6rjg7zjg5Hjg6njg6Hjg7zjgr/jg7zjgYzkuI7jgYjjgonjgozjgarjgYvjgaPjgZ/loLTlkIjjga8iIGluIHt9CiAgICB2YWwgcmVzdWx0ID0gY29udHJvbGxlci5nZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGEgPSAiMSIKICAgICAgdmFsIGIgPSAiYSIK</text>
+        <text encoding="base64">ICAgICLjgq/jgqjjg6rjg7zjg5Hjg6njg6Hjg7zjgr/jg7zjgYzkuI7jgYjjgonjgozjgarjgYvjgaPjgZ/loLTlkIjjga8iIGluIHt9CiAgICB2YWwgcmVzdWx0ID0gY29udHJvbGxlci5nZXQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzIiR7VHJ5KGkudG9JbnQgKyBqLnRvSW50KS5nZXRPckVsc2UoIlBsZWFzZSBnaXZlIGFyZ3VtZW50cyBvZiBhIGFuZCBiIil9Igo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSAiMSIKICAgICAgdmFsIGIgPSAiYSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzIiR7VHJ5KGkudG9JbnQgKyBqLnRvSW50KS5nZXRPckVsc2UoIlBsZWFzZSBnaXZlIGFyZ3VtZW50cyBvZiBhIGFuZCBiIil9Igo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -128,7 +136,7 @@
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search />
@@ -161,6 +169,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
