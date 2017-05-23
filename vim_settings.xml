@@ -1,0 +1,158 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/Scala/S99/src/main/scala/P06.scala" timestamp="1495449408420">
+        <mark key="'" line="9" column="34" />
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="5" column="89" />
+        <mark key="." line="5" column="89" />
+        <mark key="^" line="5" column="89" />
+      </file>
+      <file name="$USER_HOME$/workspace/Scala/hello-world/app/controllers/HelloController.scala" timestamp="1495521284900">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/pluser/build.sbt" timestamp="1495511608382">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" timestamp="1495521330781">
+        <mark key="'" line="8" column="37" />
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="45" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1495437533072">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Scala/S99/src/test/scala/P03Spec.scala" timestamp="1495438085789">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/Scala/S99/src/test/scala/P06Spec.scala" timestamp="1495438557810">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/pluser/conf/routes" timestamp="1495511928827">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="53" />
+        <mark key="^" line="0" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" timestamp="1495518820055">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/Scala/S99/src/main/scala/P06.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/Scala/S99/src/main/scala/P06.scala" />
+      <jump line="8" column="34" filename="$USER_HOME$/workspace/Scala/S99/src/main/scala/P06.scala" />
+      <jump line="8" column="34" filename="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" />
+      <jump line="15" column="55" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="21" column="4" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="11" column="7" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="17" column="12" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="13" column="26" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+      <jump line="8" column="37" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>t</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLnRlc3QuRmFrZVJlcXVlc3QK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHBsYXkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmloflrZfliJfku6XlpJbjgacK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAicGxlYXNlIGdpdmUgYXJndW1lbnRzIG9mIGEgYW5kIGIiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmloflrZfliJfku6XlpJYK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>vs.</entry>
+        <entry>wq</entry>
+        <entry>b2</entry>
+        <entry>b1</entry>
+        <entry>b3</entry>
+        <entry>call append(line('.'), '')</entry>
+        <entry>call</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
