@@ -51,12 +51,12 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/TextboardController.scala" timestamp="1495612486711">
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/TextboardController.scala" timestamp="1495620437611">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="11" />
-        <mark key="^" line="34" column="86" />
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="24" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/Scala/S99/src/test/scala/P03Spec.scala" timestamp="1495438085789">
         <mark key="[" line="7" column="19" />
@@ -151,8 +151,8 @@
       <register name="/" type="4">
         <text>reg</text>
       </register>
-      <register name="0" type="4">
-        <text>endDate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcml2YXRlW3RoaXNdIHZhbCBmb3JtID0gRm9ybSgKICAgIG1hcHBpbmcoCiAgICAgICJuYW1lIiAtPiB0ZXh0KG1pbkxlbmd0aCA9IDEsIG1heExlbmd0aCA9IDEwKQogICAgKShQb3N0UmVxdWVzdC5hcHBseSkoUG9zdFJlcXVlc3QudW5hcHBseSkKICApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly9pbXBvcnQgamF2YS50aW1lLk9mZnNldERhdGVUaW1lCg==</text>
@@ -211,6 +211,7 @@
         <entry>noh</entry>
         <entry>set nopaste</entry>
         <entry>sp</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
