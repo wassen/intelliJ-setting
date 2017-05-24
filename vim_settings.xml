@@ -16,14 +16,6 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/pluser/test/controllers/PlusControllerSpec.scala" timestamp="1495524262264">
-        <mark key="'" line="6" column="42" />
-        <mark key="[" line="27" column="75" />
-        <mark key="]" line="27" column="75" />
-        <mark key="." line="27" column="75" />
-        <mark key="^" line="27" column="75" />
-      </file>
-      <file name="$USER_HOME$/workspace/pluser/conf/messages" timestamp="1495528059840" />
       <file name="$USER_HOME$/workspace/pluser/build.sbt" timestamp="1495524303899">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -37,14 +29,28 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1495437533072">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/Scala/S99/src/test/scala/P03Spec.scala" timestamp="1495438085789">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
         <mark key="^" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" timestamp="1495528584974">
+        <mark key="'" line="16" column="82" />
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="16" column="83" />
+        <mark key="^" line="16" column="83" />
+        <mark key="." line="16" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/pluser/test/controllers/PlusControllerSpec.scala" timestamp="1495524262264">
+        <mark key="'" line="6" column="42" />
+        <mark key="[" line="27" column="75" />
+        <mark key="]" line="27" column="75" />
+        <mark key="." line="27" column="75" />
+        <mark key="^" line="27" column="75" />
+      </file>
+      <file name="/fragment.java" timestamp="1495437533072">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Scala/S99/src/test/scala/P06Spec.scala" timestamp="1495438557810">
         <mark key="[" line="10" column="19" />
@@ -57,13 +63,6 @@
         <mark key="]" line="0" column="53" />
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" timestamp="1495528584974">
-        <mark key="'" line="16" column="82" />
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="16" column="83" />
-        <mark key="^" line="16" column="83" />
-        <mark key="." line="16" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/pluser/conf/messages.ja" timestamp="1495528071155">
         <mark key="[" line="0" column="0" />
@@ -136,7 +135,7 @@
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search />
