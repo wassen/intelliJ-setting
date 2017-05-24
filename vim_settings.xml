@@ -3,6 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/Schedule.scala" timestamp="1495611839612">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="67" />
+        <mark key="." line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+      </file>
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/conf/messages" timestamp="1495611652117">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495607372835">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Scala/S99/src/main/scala/P06.scala" timestamp="1495449408420">
         <mark key="'" line="9" column="34" />
         <mark key="[" line="17" column="3" />
@@ -16,6 +31,13 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/conf/application.conf" timestamp="1495607117555">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/Post.scala" timestamp="1495609659311" />
       <file name="$USER_HOME$/workspace/pluser/build.sbt" timestamp="1495524303899">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -28,6 +50,13 @@
         <mark key="]" line="8" column="5" />
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/TextboardController.scala" timestamp="1495610472206">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="34" column="67" />
+        <mark key="]" line="34" column="86" />
+        <mark key="." line="34" column="86" />
+        <mark key="^" line="34" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/Scala/S99/src/test/scala/P03Spec.scala" timestamp="1495438085789">
         <mark key="[" line="7" column="19" />
@@ -42,12 +71,30 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="16" column="83" />
       </file>
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/views/index.scala.html" timestamp="1495611802912">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+        <mark key="^" line="31" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/pluser/test/controllers/PlusControllerSpec.scala" timestamp="1495524262264">
         <mark key="'" line="6" column="42" />
         <mark key="[" line="27" column="75" />
         <mark key="]" line="27" column="75" />
         <mark key="." line="27" column="75" />
         <mark key="^" line="27" column="75" />
+      </file>
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/ScheduleRepository.scala" timestamp="1495610160989">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/conf/routes" timestamp="1495607866406">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="78" />
+        <mark key="." line="0" column="78" />
+        <mark key="^" line="0" column="78" />
       </file>
       <file name="/fragment.java" timestamp="1495437533072">
         <mark key="[" line="0" column="0" />
@@ -91,43 +138,45 @@
       <jump line="8" column="37" filename="$USER_HOME$/workspace/Scala/hello-world/test/controllers/HelloControllerSpec.scala" />
       <jump line="6" column="42" filename="$USER_HOME$/workspace/pluser/test/controllers/PlusControllerSpec.scala" />
       <jump line="14" column="82" filename="$USER_HOME$/workspace/pluser/app/controllers/PlusController.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/TextboardController.scala" />
+      <jump line="3" column="9" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/ScheduleRepository.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aGVsbG8gPSBIZWxsbywgezB9IQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9InNjaGVkdWxlLWJvZHkiPkBzY2hlZHVsZS5uYW1lPC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aGVsbG8gPSBIZWxsbywgezB9IQo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgamF2YS50aW1lLk9mZnNldERhdGVUaW1lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmkxOG4uSTE4blN1cHBvcnQK</text>
+        <text encoding="base64">Ly9pbXBvcnQgamF2YS50aW1lLk9mZnNldERhdGVUaW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmkxOG4uSTE4blN1cHBvcnQK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICLjgq/jgqjjg6rjg7zjg5Hjg6njg6Hjg7zjgr/jg7zjgYzkuI7jgYjjgonjgozjgarjgYvjgaPjgZ/loLTlkIjjga8iIGluIHt9CiAgICB2YWwgcmVzdWx0ID0gY29udHJvbGxlci5nZXQoKQo=</text>
+        <text encoding="base64">ICAgIE9rKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGEgPSAiMSIKICAgICAgdmFsIGIgPSAiYSIK</text>
+        <text encoding="base64">ICAgIC8vICAgT2sodmlld3MuaHRtbC5pbmRleChQb3N0UmVwb3NpdG9yeS5maW5kQWxsLCBmb3JtKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzIiR7VHJ5KGkudG9JbnQgKyBqLnRvSW50KS5nZXRPckVsc2UoIlBsZWFzZSBnaXZlIGFyZ3VtZW50cyBvZiBhIGFuZCBiIil9Igo=</text>
+        <text encoding="base64">Ly8gICAgICB2aWV3Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cy5odG1sLmluZGV4KFBvc3RSZXBvc2l0b3J5LmZpbmRBbGwsIGZvcm0sIGRhdGUgbWF0Y2h7Ci8vICAgICAgICBjYXNlIFNvbWUoZGF0ZSkgPT4gZGF0ZQovLyAgICAgICAgICAvLyBub3cKLy8gICAgICAgIGNhc2UgTm9uZSA9PiAiMTU6NTQiCi8vICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBjYXNlIFNvbWUoZGF0ZSkgPT4gdmlld3MuaHRtbC5pbmRleChQb3N0UmVwb3NpdG9yeS5maW5kQWxsLCBkYXRlKQovLyAgICAgIGNhc2UgTm9uZSA9PiB2aWV3cy5odG1sLmluZGV4KFBvc3RSZXBvc2l0b3J5LmZpbmRBbGwsICIxMiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -148,6 +197,10 @@
         <entry>b3</entry>
         <entry>call</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>.noh</entry>
+        <entry>noh</entry>
+        <entry>set nopaste</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -171,6 +224,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
