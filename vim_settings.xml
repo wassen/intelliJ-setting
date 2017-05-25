@@ -121,11 +121,11 @@
         <mark key="." line="6" column="62" />
         <mark key="^" line="6" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/AddScheduleController.scala" timestamp="1495699701579">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="54" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/AddScheduleController.scala" timestamp="1495703568001">
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="20" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="33" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1495437533072">
         <mark key="[" line="0" column="0" />
@@ -179,11 +179,11 @@
       <jump line="3" column="5" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/CalendarController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRpdGxlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>ate</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>ate</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
