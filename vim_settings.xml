@@ -70,10 +70,10 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="16" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/views/index.scala.html" timestamp="1495677953853">
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="31" column="36" />
-        <mark key="." line="31" column="36" />
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/views/index.scala.html" timestamp="1495681710468">
+        <mark key="[" line="3" column="51" />
+        <mark key="]" line="3" column="51" />
+        <mark key="." line="3" column="51" />
         <mark key="^" line="31" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/pluser/test/controllers/PlusControllerSpec.scala" timestamp="1495524262264">
@@ -83,11 +83,12 @@
         <mark key="." line="27" column="75" />
         <mark key="^" line="27" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/CalendarController.scala" timestamp="1495680227142">
-        <mark key="[" line="39" column="1" />
-        <mark key="]" line="39" column="1" />
-        <mark key="^" line="39" column="1" />
-        <mark key="." line="39" column="1" />
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/CalendarController.scala" timestamp="1495682791043">
+        <mark key="'" line="48" column="12" />
+        <mark key="[" line="48" column="55" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="49" column="37" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/ScheduleRepository.scala" timestamp="1495679747258">
         <mark key="[" line="12" column="40" />
@@ -147,34 +148,36 @@
       <jump line="3" column="9" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/ScheduleRepository.scala" />
       <jump line="43" column="6" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/TextboardController.scala" />
       <jump line="44" column="32" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/TextboardController.scala" />
+      <jump line="14" column="24" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/CalendarController.scala" />
+      <jump line="48" column="12" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/CalendarController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Time</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Time</text>
+        <text>ateSplitted</text>
       </register>
       <register name="/" type="4">
         <text>reg</text>
       </register>
-      <register name="0" type="4">
-        <text>, date(1)</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuVHJ5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvY2FsRGF0ZS5vZihkYXRlU3BsaXR0ZWQoMCksIGRhdGVTcGxpdHRlZCgxKSwgZGF0ZVNwbGl0dGVkKDIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGUgbWF0Y2ggewogICAgICBjYXNlIFNvbWUoZGF0ZSkgPT4gZGF0ZQogICAgICBjYXNlIE5vbmUgPT4gIm11cmkiCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE9rKHZpZXdzLmh0bWwuaW5kZXgoU2NoZWR1bGVSZXBvc2l0b3J5LmZpbmRBbGwsIGZvcm1fbmFtZSwgImFhYSIpKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -183,10 +186,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGUgbWF0Y2ggewogICAgICBjYXNlCiAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -246,6 +249,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
