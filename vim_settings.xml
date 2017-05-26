@@ -64,10 +64,11 @@
         <mark key="." line="5" column="89" />
         <mark key="^" line="5" column="89" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/test/CalendarSpec.scala" timestamp="1495781271428">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/test/CalendarSpec.scala" timestamp="1495783596086">
+        <mark key="[" line="106" column="7" />
+        <mark key="]" line="104" column="102" />
+        <mark key="." line="104" column="102" />
+        <mark key="^" line="104" column="102" />
       </file>
       <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/conf/application.conf" timestamp="1495613477054">
         <mark key="[" line="0" column="24" />
