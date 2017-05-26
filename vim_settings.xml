@@ -15,11 +15,11 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/test/TextboardSpec.scala" timestamp="1495771360231">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="42" />
-        <mark key="." line="26" column="42" />
-        <mark key="^" line="26" column="42" />
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/test/TextboardSpec.scala" timestamp="1495779981360">
+        <mark key="[" line="113" column="3" />
+        <mark key="]" line="114" column="1" />
+        <mark key="." line="114" column="1" />
+        <mark key="^" line="114" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/Scala/S99/src/test/scala/P03Spec.scala" timestamp="1495438085789">
         <mark key="[" line="7" column="19" />
@@ -34,17 +34,17 @@
         <mark key="^" line="16" column="83" />
         <mark key="." line="16" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/views/index.scala.html" timestamp="1495768727353">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="19" />
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/views/index.scala.html" timestamp="1495775195179">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/ScheduleRepository.scala" timestamp="1495764980500">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="9" column="40" />
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/ScheduleRepository.scala" timestamp="1495779794657">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/conf/routes" timestamp="1495764570217">
         <mark key="^" line="0" column="68" />
@@ -115,11 +115,11 @@
         <mark key="^" line="32" column="1" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/AddScheduleController.scala" timestamp="1495767512408">
-        <mark key="[" line="21" column="106" />
-        <mark key="]" line="21" column="106" />
-        <mark key="." line="21" column="106" />
-        <mark key="^" line="21" column="106" />
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/AddScheduleController.scala" timestamp="1495778125096">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1495437533072">
         <mark key="[" line="0" column="0" />
@@ -170,44 +170,44 @@
       <jump line="36" column="48" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/CalendarController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>start</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgogIC8vICAi56m644Gu44Oh44OD44K744O844K444Gv5oqV56i/44Gn44GN44Gq44GEIiBpbiB7CiAgLy8gICAgdmFsIGJvZHkgPSAiIgogIC8vCiAgLy8gICAgZ28gdG8gcyJodHRwOi8vbG9jYWxob3N0OiRwb3J0LyIKICAvLyAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgc3VibWl0KCkKICAvLwogIC8vICAgIGV2ZW50dWFsbHkgewogIC8vICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgYXNzZXJ0KGVycm9yLmxlbmd0aCA9PT0gMSkKICAvLyAgICAgIGFzc2VydChlcnJvcigwKS50ZXh0ID09PSAiUGxlYXNlIGVudGVyIGEgbWVzc2FnZS4iKQogIC8vICAgIH0KICAvLyAgfQogIC8vCiAgLy8gICAgIumVt+OBmeOBjuOCi+ODoeODg+OCu+ODvOOCuOOBr+aKleeov+OBp+OBjeOBquOBhCIgaW4gewogIC8vICAgICAgdmFsIGJvZHkgPSAidG9vIGxvbmcgbWVzc2FnZXMiCiAgLy8KICAvLyAgICAgIGdvIHRvIHMiaHR0cDovL2xvY2FsaG9zdDokcG9ydC8iCiAgLy8gICAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgICBzdWJtaXQoKQogIC8vCiAgLy8gICAgICBldmVudHVhbGx5IHsKICAvLyAgICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IubGVuZ3RoID09PSAxKQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IoMCkudGV4dCA9PT0gIlRoZSBtZXNzYWdlIGlzIHRvbyBsb25nLiIpCiAgLy8gICAgICB9CiAgLy8gICAgfQogIC8vICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
-      <register name="0" type="4">
-        <text>cssSelector(&quot;input#startDateTime&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHRpdGxlID0gdGVzdFRpdGxlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogIC8vICAi56m644Gu44Oh44OD44K744O844K444Gv5oqV56i/44Gn44GN44Gq44GEIiBpbiB7CiAgLy8gICAgdmFsIGJvZHkgPSAiIgogIC8vCiAgLy8gICAgZ28gdG8gcyJodHRwOi8vbG9jYWxob3N0OiRwb3J0LyIKICAvLyAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgc3VibWl0KCkKICAvLwogIC8vICAgIGV2ZW50dWFsbHkgewogIC8vICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgYXNzZXJ0KGVycm9yLmxlbmd0aCA9PT0gMSkKICAvLyAgICAgIGFzc2VydChlcnJvcigwKS50ZXh0ID09PSAiUGxlYXNlIGVudGVyIGEgbWVzc2FnZS4iKQogIC8vICAgIH0KICAvLyAgfQogIC8vCiAgLy8gICAgIumVt+OBmeOBjuOCi+ODoeODg+OCu+ODvOOCuOOBr+aKleeov+OBp+OBjeOBquOBhCIgaW4gewogIC8vICAgICAgdmFsIGJvZHkgPSAidG9vIGxvbmcgbWVzc2FnZXMiCiAgLy8KICAvLyAgICAgIGdvIHRvIHMiaHR0cDovL2xvY2FsaG9zdDokcG9ydC8iCiAgLy8gICAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgICBzdWJtaXQoKQogIC8vCiAgLy8gICAgICBldmVudHVhbGx5IHsKICAvLyAgICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IubGVuZ3RoID09PSAxKQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IoMCkudGV4dCA9PT0gIlRoZSBtZXNzYWdlIGlzIHRvbyBsb25nLiIpCiAgLy8gICAgICB9CiAgLy8gICAgfQogIC8vICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvYmplY3QgdGltZXsKICAgIHZhbAogIH0K</text>
+        <text encoding="base64">ICAgICAgdmFsIHN0YXJ0RGF0ZVRpbWUgPSAKICAgICAgdmFsIGVuZERhdGVUaW1lID0gIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGV4dEZpZWxkKC52YWx1ZSA9IHN0YXJ0RGF0ZVRpbWUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvYmplY3QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHRpdGxlID0gdGVzdFRpdGxlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VydChwYWdlVGl0bGUgPT09ICJDYWxlbmRhciIpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAiR0VUIC8iIHNob3VsZCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICLkvZXjgoLmipXnqL/jgZfjgabjgYTjgarjgYTloLTlkIjjga/jg6Hjg4Pjgrvjg7zjgrjjgpLooajnpLrjgZfjgarjgYQiIGluIHsKCiAgICAgIGdvVG8ocyJodHRwOi8vbG9jYWxob3N0OiRwb3J0Lz9kYXRlPWFsbCIpCiAgICAgIGFzc2VydChwYWdlVGl0bGUgPT09ICJDYWxlbmRhciIpCiAgICAgIGFzc2VydChmaW5kQWxsKGNsYXNzTmFtZSgic2NoZWR1bGUtdGl0bGUiKSkubGVuZ3RoID09PSAwKQogICAgfQogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGJvZHkgPSAidGVzdCBwb3N0Igo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQocGFnZVNvdXJjZSAhPT0gZXJyb3JUZXh0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
