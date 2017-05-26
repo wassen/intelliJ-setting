@@ -54,7 +54,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495676739764">
+      <file name="/Dummy.txt" timestamp="1495792270187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Scala/S99/src/main/scala/P06.scala" timestamp="1495449408420">
@@ -115,11 +115,17 @@
         <mark key="." line="27" column="75" />
         <mark key="^" line="27" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/DateTimeHandler.scala" timestamp="1495764957215">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="32" column="1" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/DateTimeHandler.scala" timestamp="1495792864230">
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+        <mark key="." line="19" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/CalendarController.scala" timestamp="1495792922637">
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="20" column="66" />
+        <mark key="^" line="20" column="80" />
+        <mark key="." line="20" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/AddScheduleController.scala" timestamp="1495778125096">
         <mark key="[" line="13" column="30" />
@@ -176,44 +182,44 @@
       <jump line="36" column="48" filename="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/CalendarController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRpdGxlID0gdGVzdFRpdGxlCg==</text>
+      <register name="0" type="4">
+        <text>date</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlU3BsaXR0ZWQ6IFRyeVtBcnJheVtJbnRdXSA9IFRyeShMb2NhbERhdGUucGFyc2UoZGF0ZSkpCiAgICBkYXRlU3BsaXR0ZWQgbWF0Y2ggewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgdmFsIHBvc3RzID0gZmluZEFsbChjbGFzc05hbWUoInBvc3QtYm9keSIpKS50b1NlcQogICAgICAgIC8vICAgICAgICBhc3NlcnQocG9zdHMubGVuZ3RoID09PSAxKQogICAgICAgIC8vICAgICAgICBhc3NlcnQocG9zdHMoMCkudGV4dCA9PT0gYm9keSkKICAgICAgICAvLyAgICAgICAgYXNzZXJ0KGZpbmRBbGwoY3NzU2VsZWN0b3IoInAjZXJyb3IiKSkubGVuZ3RoID09PSAwKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CgogIC8vICAi56m644Gu44Oh44OD44K744O844K444Gv5oqV56i/44Gn44GN44Gq44GEIiBpbiB7CiAgLy8gICAgdmFsIGJvZHkgPSAiIgogIC8vCiAgLy8gICAgZ28gdG8gcyJodHRwOi8vbG9jYWxob3N0OiRwb3J0LyIKICAvLyAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgc3VibWl0KCkKICAvLwogIC8vICAgIGV2ZW50dWFsbHkgewogIC8vICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgYXNzZXJ0KGVycm9yLmxlbmd0aCA9PT0gMSkKICAvLyAgICAgIGFzc2VydChlcnJvcigwKS50ZXh0ID09PSAiUGxlYXNlIGVudGVyIGEgbWVzc2FnZS4iKQogIC8vICAgIH0KICAvLyAgfQogIC8vCiAgLy8gICAgIumVt+OBmeOBjuOCi+ODoeODg+OCu+ODvOOCuOOBr+aKleeov+OBp+OBjeOBquOBhCIgaW4gewogIC8vICAgICAgdmFsIGJvZHkgPSAidG9vIGxvbmcgbWVzc2FnZXMiCiAgLy8KICAvLyAgICAgIGdvIHRvIHMiaHR0cDovL2xvY2FsaG9zdDokcG9ydC8iCiAgLy8gICAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgICBzdWJtaXQoKQogIC8vCiAgLy8gICAgICBldmVudHVhbGx5IHsKICAvLyAgICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IubGVuZ3RoID09PSAxKQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IoMCkudGV4dCA9PT0gIlRoZSBtZXNzYWdlIGlzIHRvbyBsb25nLiIpCiAgLy8gICAgICB9CiAgLy8gICAgfQogIC8vICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHN0YXJ0RGF0ZVRpbWUgPSAKICAgICAgdmFsIGVuZERhdGVUaW1lID0gIiIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIExvY2FsRGF0ZS5wYXJzZShkYXRlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCB0aW1lU3BsaXR0ZWQ6IFRyeVtBcnJheVtJbnRdXSA9IFRyeSh0aW1lLnNwbGl0KCItIikubWFwKF8udG9JbnQpKQogICAgdGltZVNwbGl0dGVkIG1hdGNoIHsKICAgICAgY2FzZSBTdWNjZXNzKGQpID0+IExvY2FsVGltZS5vZihkKDApLCBkKDEpKQogICAgICBjYXNlIEZhaWx1cmUoXykgPT4gTG9jYWxUaW1lLm5vdwogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBkYXRlU3BsaXR0ZWQ6IFRyeVtBcnJheVtJbnRdXSA9IFRyeShkYXRlLnNwbGl0KCItIikubWFwKF8udG9JbnQpKQogICAgZGF0ZVNwbGl0dGVkIG1hdGNoIHsKICAgICAgY2FzZSBTdWNjZXNzKGQpID0+IExvY2FsRGF0ZS5vZihkKDApLCBkKDEpLCBkKDIpKSAvLyBweXRob27jga4q44G/44Gf44GE44GrdW5wYWNr44GX44Gf44GECiAgICAgIGNhc2UgRmFpbHVyZShfKSA9PiBMb2NhbERhdGUubm93CiAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRpdGxlID0gdGVzdFRpdGxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VydChwYWdlVGl0bGUgPT09ICJDYWxlbmRhciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgdmFsIHBvc3RzID0gZmluZEFsbChjbGFzc05hbWUoInBvc3QtYm9keSIpKS50b1NlcQogICAgICAgIC8vICAgICAgICBhc3NlcnQocG9zdHMubGVuZ3RoID09PSAxKQogICAgICAgIC8vICAgICAgICBhc3NlcnQocG9zdHMoMCkudGV4dCA9PT0gYm9keSkKICAgICAgICAvLyAgICAgICAgYXNzZXJ0KGZpbmRBbGwoY3NzU2VsZWN0b3IoInAjZXJyb3IiKSkubGVuZ3RoID09PSAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiR0VUIC8iIHNob3VsZCB7Cg==</text>
+        <text encoding="base64">CgogIC8vICAi56m644Gu44Oh44OD44K744O844K444Gv5oqV56i/44Gn44GN44Gq44GEIiBpbiB7CiAgLy8gICAgdmFsIGJvZHkgPSAiIgogIC8vCiAgLy8gICAgZ28gdG8gcyJodHRwOi8vbG9jYWxob3N0OiRwb3J0LyIKICAvLyAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgc3VibWl0KCkKICAvLwogIC8vICAgIGV2ZW50dWFsbHkgewogIC8vICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgYXNzZXJ0KGVycm9yLmxlbmd0aCA9PT0gMSkKICAvLyAgICAgIGFzc2VydChlcnJvcigwKS50ZXh0ID09PSAiUGxlYXNlIGVudGVyIGEgbWVzc2FnZS4iKQogIC8vICAgIH0KICAvLyAgfQogIC8vCiAgLy8gICAgIumVt+OBmeOBjuOCi+ODoeODg+OCu+ODvOOCuOOBr+aKleeov+OBp+OBjeOBquOBhCIgaW4gewogIC8vICAgICAgdmFsIGJvZHkgPSAidG9vIGxvbmcgbWVzc2FnZXMiCiAgLy8KICAvLyAgICAgIGdvIHRvIHMiaHR0cDovL2xvY2FsaG9zdDokcG9ydC8iCiAgLy8gICAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgICBzdWJtaXQoKQogIC8vCiAgLy8gICAgICBldmVudHVhbGx5IHsKICAvLyAgICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IubGVuZ3RoID09PSAxKQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IoMCkudGV4dCA9PT0gIlRoZSBtZXNzYWdlIGlzIHRvbyBsb25nLiIpCiAgLy8gICAgICB9CiAgLy8gICAgfQogIC8vICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -281,6 +287,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
