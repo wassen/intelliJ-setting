@@ -49,6 +49,12 @@
       <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/conf/routes" timestamp="1495764570217">
         <mark key="^" line="0" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/TDD_from_car_window_mopp_wassen/stack/src/main/scala/stack/Stack.scala" timestamp="1496643726064">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/pluser/conf/messages.ja" timestamp="1495528071155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -56,6 +62,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1495792270187">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/TDD_from_car_window_mopp_wassen/stack/src/test/scala/stack/StackSpec.scala" timestamp="1496642804313">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/Scala/S99/src/main/scala/P06.scala" timestamp="1495449408420">
         <mark key="'" line="9" column="34" />
@@ -183,43 +195,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
       <register name="0" type="4">
-        <text>date</text>
+        <text>t</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRlU3BsaXR0ZWQ6IFRyeVtBcnJheVtJbnRdXSA9IFRyeShMb2NhbERhdGUucGFyc2UoZGF0ZSkpCiAgICBkYXRlU3BsaXR0ZWQgbWF0Y2ggewo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZVt0aGlzXSB2YXIgdmFsdWU6IFQKCiAgZGVmIGlzRW1wdHk6IEJvb2xlYW4gPSB0cnVlCiAgZGVmIHB1c2hbRSA+OiBUXShlbGVtZW50OiBFKTogVW5pdCA9IHt2YWx1ZSA9IGVsZW1lbnR9CiAgZGVmIHRvcFtFID46IFRdOiBUID0gdmFsdWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgcHVzaCh0PjogVCkgOiBVbml0ID0ge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExvY2FsRGF0ZS5wYXJzZShkYXRlKQo=</text>
+        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aW1lU3BsaXR0ZWQ6IFRyeVtBcnJheVtJbnRdXSA9IFRyeSh0aW1lLnNwbGl0KCItIikubWFwKF8udG9JbnQpKQogICAgdGltZVNwbGl0dGVkIG1hdGNoIHsKICAgICAgY2FzZSBTdWNjZXNzKGQpID0+IExvY2FsVGltZS5vZihkKDApLCBkKDEpKQogICAgICBjYXNlIEZhaWx1cmUoXykgPT4gTG9jYWxUaW1lLm5vdwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMCkKICAgIGFzc2VydChzdGFjay5pc0VtcHR5ID09IHRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRlU3BsaXR0ZWQ6IFRyeVtBcnJheVtJbnRdXSA9IFRyeShkYXRlLnNwbGl0KCItIikubWFwKF8udG9JbnQpKQogICAgZGF0ZVNwbGl0dGVkIG1hdGNoIHsKICAgICAgY2FzZSBTdWNjZXNzKGQpID0+IExvY2FsRGF0ZS5vZihkKDApLCBkKDEpLCBkKDIpKSAvLyBweXRob27jga4q44G/44Gf44GE44GrdW5wYWNr44GX44Gf44GECiAgICAgIGNhc2UgRmFpbHVyZShfKSA9PiBMb2NhbERhdGUubm93CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHNldFVwCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgc3RhY2tJbnQ6IFN0YWNrW0ludF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgdmFsIHBvc3RzID0gZmluZEFsbChjbGFzc05hbWUoInBvc3QtYm9keSIpKS50b1NlcQogICAgICAgIC8vICAgICAgICBhc3NlcnQocG9zdHMubGVuZ3RoID09PSAxKQogICAgICAgIC8vICAgICAgICBhc3NlcnQocG9zdHMoMCkudGV4dCA9PT0gYm9keSkKICAgICAgICAvLyAgICAgICAgYXNzZXJ0KGZpbmRBbGwoY3NzU2VsZWN0b3IoInAjZXJyb3IiKSkubGVuZ3RoID09PSAwKQo=</text>
+        <text encoding="base64">ICBkZWYgc2V0VXBJbnRTdGFjaygpOiBTdGFja1tJbnRdID0gewogICAgc3RhY2tJbnQgPSBuZXcgU3RhY2tbSW50XQogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogIC8vICAi56m644Gu44Oh44OD44K744O844K444Gv5oqV56i/44Gn44GN44Gq44GEIiBpbiB7CiAgLy8gICAgdmFsIGJvZHkgPSAiIgogIC8vCiAgLy8gICAgZ28gdG8gcyJodHRwOi8vbG9jYWxob3N0OiRwb3J0LyIKICAvLyAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgc3VibWl0KCkKICAvLwogIC8vICAgIGV2ZW50dWFsbHkgewogIC8vICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgYXNzZXJ0KGVycm9yLmxlbmd0aCA9PT0gMSkKICAvLyAgICAgIGFzc2VydChlcnJvcigwKS50ZXh0ID09PSAiUGxlYXNlIGVudGVyIGEgbWVzc2FnZS4iKQogIC8vICAgIH0KICAvLyAgfQogIC8vCiAgLy8gICAgIumVt+OBmeOBjuOCi+ODoeODg+OCu+ODvOOCuOOBr+aKleeov+OBp+OBjeOBquOBhCIgaW4gewogIC8vICAgICAgdmFsIGJvZHkgPSAidG9vIGxvbmcgbWVzc2FnZXMiCiAgLy8KICAvLyAgICAgIGdvIHRvIHMiaHR0cDovL2xvY2FsaG9zdDokcG9ydC8iCiAgLy8gICAgICB0ZXh0RmllbGQoY3NzU2VsZWN0b3IoImlucHV0I3Bvc3QiKSkudmFsdWUgPSBib2R5CiAgLy8gICAgICBzdWJtaXQoKQogIC8vCiAgLy8gICAgICBldmVudHVhbGx5IHsKICAvLyAgICAgICAgdmFsIGVycm9yID0gZmluZEFsbChjc3NTZWxlY3RvcigicCNlcnJvciIpKS50b1NlcQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IubGVuZ3RoID09PSAxKQogIC8vICAgICAgICBhc3NlcnQoZXJyb3IoMCkudGV4dCA9PT0gIlRoZSBtZXNzYWdlIGlzIHRvbyBsb25nLiIpCiAgLy8gICAgICB9CiAgLy8gICAgfQogIC8vICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1c2goMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -255,9 +267,9 @@
         <entry>q</entry>
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>noh</entry>
         <entry>set nopaste</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
