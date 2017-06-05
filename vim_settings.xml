@@ -9,6 +9,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/TDD_KVS_sawaken_wassen/src/test/scala/KVSSpec.scala" timestamp="1496654985618">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Scala/hello-world/app/controllers/HelloController.scala" timestamp="1495529366898">
         <mark key="[" line="17" column="42" />
         <mark key="]" line="17" column="42" />
@@ -54,11 +60,6 @@
         <mark key="]" line="17" column="34" />
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/pluser/conf/messages.ja" timestamp="1495528071155">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1495792270187">
         <mark key="[" line="0" column="0" />
@@ -112,6 +113,12 @@
         <mark key="]" line="8" column="5" />
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/TDD_KVS_sawaken_wassen/src/main/scala/KVS.scala" timestamp="1496655090073">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="51" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/TextboardController.scala" timestamp="1495678372898">
         <mark key="'" line="44" column="32" />
@@ -204,34 +211,34 @@
         <text>Date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFjayA9IFN0YWNrKCkK</text>
+        <text encoding="base64">ICAgIGFzc2VydChrdnMuZ2V0KCJmaXJzdC1rZXkiKSA9PT0gImZpcnN0LXZhbHVlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdFB1c2hBbmRQb3AoKTogVW5pdCA9IHsKICAgIHMucHVzaCgxKQogICAgcy5wb3AKICAgIGFzc2VydEVxdWFscygwID09PSBzLnNpemUpCiAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZVt0aGlzXSB2YXIgdmFsdWU6IFQKCiAgZGVmIGlzRW1wdHk6IEJvb2xlYW4gPSB0cnVlCiAgZGVmIHB1c2hbRSA+OiBUXShlbGVtZW50OiBFKTogVW5pdCA9IHt2YWx1ZSA9IGVsZW1lbnR9CiAgZGVmIHRvcFtFID46IFRdOiBUID0gdmFsdWUK</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgcHVzaCh0PjogVCkgOiBVbml0ID0ge30K</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMCkKICAgIGFzc2VydChzdGFjay5pc0VtcHR5ID09IHRydWUpCg==</text>
+        <text encoding="base64">ICBkZWYgdGVzdFB1c2hBbmRQb3AoKTogVW5pdCA9IHsKICAgIHMucHVzaCgxKQogICAgcy5wb3AKICAgIGFzc2VydEVxdWFscygwID09PSBzLnNpemUpCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -270,6 +277,7 @@
         <entry>noh</entry>
         <entry>set nopaste</entry>
         <entry>call append(line('.'), '')</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
