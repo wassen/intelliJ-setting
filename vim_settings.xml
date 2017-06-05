@@ -9,11 +9,11 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/TDD_KVS_sawaken_wassen/src/test/scala/KVSSpec.scala" timestamp="1496657517863">
+      <file name="$USER_HOME$/workspace/TDD_KVS_sawaken_wassen/src/test/scala/KVSSpec.scala" timestamp="1496658626661">
         <mark key="[" line="51" column="4" />
-        <mark key="]" line="51" column="11" />
-        <mark key="^" line="51" column="11" />
-        <mark key="." line="51" column="11" />
+        <mark key="]" line="48" column="8" />
+        <mark key="^" line="48" column="8" />
+        <mark key="." line="51" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/Scala/hello-world/app/controllers/HelloController.scala" timestamp="1495529366898">
         <mark key="[" line="17" column="42" />
@@ -114,10 +114,11 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/TDD_KVS_sawaken_wassen/src/main/scala/KVS.scala" timestamp="1496657820149">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
+      <file name="$USER_HOME$/workspace/TDD_KVS_sawaken_wassen/src/main/scala/KVS.scala" timestamp="1496658821172">
+        <mark key="[" line="7" column="72" />
+        <mark key="]" line="7" column="73" />
+        <mark key="." line="7" column="73" />
+        <mark key="^" line="7" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/app/controllers/TextboardController.scala" timestamp="1495678372898">
         <mark key="'" line="44" column="32" />
@@ -201,43 +202,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assocList</text>
+        <text>nothing</text>
       </register>
       <register name="-" type="4">
-        <text>assocList</text>
+        <text>nothing</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGt2cy5kdW1wKCkK</text>
+        <text encoding="base64">ICAgICAgY2FzZSAoaywgU29tZSh2KSkgOjogcmVzdCBpZiAhZW1lcmdlLmV4aXN0cyhfID09IGspPT4gKGssIHYpIDo6IGxvb3AoZSwgcmVzdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAga2sK</text>
+        <text encoding="base64">ICAgIHByZSA9IGt2cy5kdW1wKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc29jTGlzdC5mb3JlYWNoCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBsb29wCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBfID0+CgoK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGt2cy5kZWxldGUoKQo=</text>
+        <text encoding="base64">ICAgIGZvciAoKSB7CgogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoKSB7CgogICAgfQogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHZhciAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAga2sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -275,8 +276,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
         <entry>set nopaste</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>e</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
