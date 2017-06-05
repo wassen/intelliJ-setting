@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/workspace/scala-text-exercises/2017/web-app-2nd-day/wassen/conf/routes" timestamp="1495764570217">
         <mark key="^" line="0" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/TDD_from_car_window_mopp_wassen/stack/src/main/scala/stack/Stack.scala" timestamp="1496643726064">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="47" />
+      <file name="$USER_HOME$/workspace/TDD_from_car_window_mopp_wassen/stack/src/main/scala/stack/Stack.scala" timestamp="1496646452262">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/pluser/conf/messages.ja" timestamp="1495528071155">
         <mark key="[" line="0" column="0" />
@@ -63,11 +63,11 @@
       <file name="/Dummy.txt" timestamp="1495792270187">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/TDD_from_car_window_mopp_wassen/stack/src/test/scala/stack/StackSpec.scala" timestamp="1496642804313">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="13" column="5" />
+      <file name="$USER_HOME$/workspace/TDD_from_car_window_mopp_wassen/stack/src/test/scala/stack/StackSpec.scala" timestamp="1496646437557">
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="58" column="16" />
+        <mark key="." line="58" column="16" />
+        <mark key="^" line="58" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/Scala/S99/src/main/scala/P06.scala" timestamp="1495449408420">
         <mark key="'" line="9" column="34" />
@@ -195,43 +195,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
-      <register name="0" type="4">
-        <text>t</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBzdGFjayA9IFN0YWNrKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZVt0aGlzXSB2YXIgdmFsdWU6IFQKCiAgZGVmIGlzRW1wdHk6IEJvb2xlYW4gPSB0cnVlCiAgZGVmIHB1c2hbRSA+OiBUXShlbGVtZW50OiBFKTogVW5pdCA9IHt2YWx1ZSA9IGVsZW1lbnR9CiAgZGVmIHRvcFtFID46IFRdOiBUID0gdmFsdWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgcHVzaCh0PjogVCkgOiBVbml0ID0ge30K</text>
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMCkK</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMCkKICAgIGFzc2VydChzdGFjay5pc0VtcHR5ID09IHRydWUpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldFVwCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWYgdGVzdFB1c2hBbmRQb3AoKTogVW5pdCA9IHsKICAgIHMucHVzaCgxKQogICAgcy5wb3AKICAgIGFzc2VydEVxdWFscygwID09PSBzLnNpemUpCiAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgcHJpdmF0ZVt0aGlzXSB2YXIgdmFsdWU6IFQKCiAgZGVmIGlzRW1wdHk6IEJvb2xlYW4gPSB0cnVlCiAgZGVmIHB1c2hbRSA+OiBUXShlbGVtZW50OiBFKTogVW5pdCA9IHt2YWx1ZSA9IGVsZW1lbnR9CiAgZGVmIHRvcFtFID46IFRdOiBUID0gdmFsdWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgc3RhY2tJbnQ6IFN0YWNrW0ludF0K</text>
+        <text encoding="base64">ICBkZWYgcHVzaCh0PjogVCkgOiBVbml0ID0ge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgc2V0VXBJbnRTdGFjaygpOiBTdGFja1tJbnRdID0gewogICAgc3RhY2tJbnQgPSBuZXcgU3RhY2tbSW50XQogIH0K</text>
+        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1c2goMCkK</text>
+        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMCkKICAgIGFzc2VydChzdGFjay5pc0VtcHR5ID09IHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -267,9 +267,9 @@
         <entry>q</entry>
         <entry>sp</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>call append(line('.'), '')</entry>
         <entry>noh</entry>
         <entry>set nopaste</entry>
+        <entry>call append(line('.'), '')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
